@@ -21,3 +21,11 @@ A space-exploration sign up page.
 ![Space-exploration](image-2.png)
 
 ---
+## 🌠 Project 3: Birthday Website
+A Birthday website with gifts that turn into GIFs when you hover over them !
+
+* **Key Learnings:** Gradients, flex-direction, :hover
+* **Tech Stack:** HTML5, CSS3
+
+![Birthday Website](image-3.png)
+---
